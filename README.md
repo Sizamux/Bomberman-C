@@ -7,6 +7,7 @@ Bomberman like- game coded in C language / using CodeBlock
 
 2. Visual Output:
 - Characters!!!!
+- and Library conio2 for colorful characters!.
 
 [pt-br] Um projeto que fiz utilizando linguagem C e código puramente Estruturado e de baixissimo Nivel :P !
 
