@@ -1,6 +1,9 @@
 # Bomberman-C
 Bomberman like- game coded in C language / using CodeBlock
 
+Requerimentos para compilar!  
+-instalar ou ter na pasta e setar a conio2.h depedendo do metodo que deseja (seja na pasta ou na secao de biblioteca do codeblock)
+- download https://conio.sourceforge.net/docs/html/conio2_8h.html
 1. Commands:
 - wasd - movement
 - space - Bomb!
