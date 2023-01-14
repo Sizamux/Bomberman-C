@@ -2,7 +2,7 @@
 Bomberman like- game coded in C language / using CodeBlock
 
 1.  Requerimentos para compilar!  
-- [pt-br]ter na pasta ou setar a conio2.h depedendo do metodo que deseja (seja na pasta ou na sessao de biblioteca do codeblock ou na pasta).
+- [pt-br]ter na pasta ou setar a conio2.h depedendo do metodo que deseja (seja na pasta ou na sessao de biblioteca do codeblock).
 - set conio2.h  in the enviroment or on the folder to compile.
 - conio2.h download at https://conio.sourceforge.net/docs/html/files.html
 - syntax: 
